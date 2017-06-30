@@ -1,3 +1,5 @@
+![Logotipo Iteso](iteso-logo.png)
+
 # Taller de Python para Profesores
 Preparado por: David Ochoa
 Contacto: ochoadavid at gmail.com
@@ -37,3 +39,8 @@ El taller esta estructurado en cinco sesiones que incluyen una exposición inici
 * __Sesión 5__ (solo presentación):
 
     (A) La comunidad de usuarios de __Python__.
+
+Las notebooks y ejemplos incluidos fueron creados usando Anaconda (https://www.continuum.io/downloads),
+pero deberían funcionar en cualquier distribución de __Python 3.x__ con las librerias una vez instaladas las librerias referidas.
+
+![by-sa](by-sa.png)
